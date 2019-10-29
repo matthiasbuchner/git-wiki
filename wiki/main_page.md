@@ -3,10 +3,13 @@ redirect_from: "/"
 ---
 
 
-1) rename it in main_page.md
+# title 1
+some text
 
-2) Edit this page with your content
+# title 2
+more text goes here
 
-
-NOTE: 
-- do not delete "redirect_from" rule from the front matter of this file
+## sub1
+adasd
+## sub2
+asdaok apsdok
